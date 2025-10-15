@@ -16,6 +16,12 @@
             "email": "o.buchmann@pc-web.at"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/inbound-be/odoo-jsonrpc.git"
+        }
+    ],
     "require": {
         "php": "^7.4",
         "guzzlehttp/guzzle": "^6.5",

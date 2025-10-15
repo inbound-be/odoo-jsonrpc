@@ -1,5 +1,5 @@
 {
-    "name": "obuchmann/odoo-jsonrpc",
+    "name": "inbound-be/odoo-jsonrpc",
     "description": "PHP Odoo Json-RPC connector in PHP 7.4",
     "keywords": [
         "php",
@@ -7,7 +7,7 @@
         "jsonrpc",
         "laravel"
     ],
-    "homepage": "https://github.com/obuchmann/odoo-jsonrpc",
+    "homepage": "https://github.com/inbound-be/odoo-jsonrpc",
     "license": "MIT",
     "type": "library",
     "authors": [
